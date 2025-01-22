@@ -153,7 +153,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: Testimonial
+      text: Testimonials
       color: text-dark
     subtitle: Testimonials
     items:
