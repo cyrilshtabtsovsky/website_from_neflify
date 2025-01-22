@@ -153,7 +153,7 @@ sections:
   - type: CarouselSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Testimonial
       color: text-dark
     subtitle: Testimonials
     items:
