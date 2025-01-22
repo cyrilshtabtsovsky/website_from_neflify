@@ -198,7 +198,7 @@ sections:
           batch:) so we can see value, even I continue to send you additional
           comments!"
         tagline: ''
-        subtitle: 'Jane Walters, Company'
+        subtitle: GP @ VC
         text: ''
         image:
           url: /images/person-placeholder-light.png
