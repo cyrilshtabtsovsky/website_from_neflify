@@ -13,14 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Product",
-            "url": "",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Testimonials",
             "altText": "Testimonials",
             "url": "",
