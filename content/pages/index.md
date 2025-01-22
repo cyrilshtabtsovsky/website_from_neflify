@@ -33,7 +33,7 @@ sections:
     title:
       type: TitleBlock
       text: AlphaSemantic
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
