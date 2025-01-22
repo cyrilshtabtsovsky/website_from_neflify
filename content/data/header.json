@@ -23,7 +23,7 @@
         {
             "label": "Testimonials",
             "altText": "Testimonials",
-            "url": "/testimonials",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
