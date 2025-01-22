@@ -218,7 +218,7 @@ sections:
           "Wow Thanks Cyril. We have reached out to a few here so something is
           working well ;)"
         tagline: ''
-        subtitle: 'Jane Doe, Company'
+        subtitle: GP @ VC
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
