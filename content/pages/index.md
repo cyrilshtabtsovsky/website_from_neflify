@@ -171,7 +171,7 @@ sections:
           strategy... Rank each startup in terms of its probability to become
           successful.
         tagline: ''
-        subtitle: 'Maria Walters, Company'
+        subtitle: Shai AlbaranesVice President of Innovation and Ventures at Orbia
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
