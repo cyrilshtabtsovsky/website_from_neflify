@@ -38,7 +38,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Alphasemantic
+      label: AlphaSemantic
       color: text-primary
       type: Badge
     elementId: ''
