@@ -221,7 +221,6 @@ sections:
         subtitle: GP @ VC
         text: ''
         image:
-          url: /images/img-placeholder-dark.png
           altText: Jane Doe
           styles:
             self:
