@@ -2,29 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: AlphaSemantic
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    items: []
-    actions: []
-    variant: toggle-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-40
-          - pt-16
-          - pl-3
-          - pr-3
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: GenericSection
     title:
       text: Find top startups for your thesis and connect in seconds
