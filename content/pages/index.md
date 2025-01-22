@@ -123,7 +123,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: ''
+        url: 'https://calendly.com/cyril-dtv/alphasemantic-demo'
         showIcon: false
         icon: arrowRight
         iconPosition: right
