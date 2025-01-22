@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Find top startups that fit your thesis and connect in seconds
+      text: Find top startups for your thesisand connect in seconds
       color: text-dark
       type: TitleBlock
     subtitle: ''
