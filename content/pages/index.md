@@ -73,8 +73,10 @@ sections:
               borderRadius: x-large
       - title: Ranking top startups
         subtitle: ''
-        text: |
-          We use around 20 datapoints to rank startups within this thesis
+        text: >+
+          We use around 20 datapoints and machine learning algorithms to rank
+          startups within the selected thesis
+
         image:
           url: /images/icon3.svg
           altText: Featured icon two
