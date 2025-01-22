@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      > “Success in VC is probably 10% about picking, and 90% about sourcing the
+      right deals and having entrepreneurs choose your firm as a partner.”
+
+
+      @ Chris Dixon, partner A16Z
     actions:
       - label: Get started
         altText: ''
