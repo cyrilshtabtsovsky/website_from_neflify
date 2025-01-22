@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Product",
-            "url": "/product",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
