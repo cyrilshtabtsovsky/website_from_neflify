@@ -194,8 +194,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+          "Good news: we are progressing fast with one of companies from your
+          batch:) so we can see value, even I continue to send you additional
+          comments!"
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
