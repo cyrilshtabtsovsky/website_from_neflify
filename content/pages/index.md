@@ -173,7 +173,7 @@ sections:
               - pr-9
             textAlign: left
             borderRadius: medium
-            flexDirection: row
+            flexDirection: row-reverse
             justifyContent: center
             borderWidth: 0
             borderStyle: solid
