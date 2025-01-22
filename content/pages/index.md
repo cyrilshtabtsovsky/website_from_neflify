@@ -140,16 +140,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Companies with worked with or for
-    images: []
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
