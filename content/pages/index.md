@@ -151,8 +151,8 @@ sections:
     subtitle: ''
     items:
       - title: >-
-          With the expertise of Cyril Shtabtsovsky and his team, we decided to
-          focus first on improving our sourcing and screening processes...
+          "With the expertise of Cyril Shtabtsovsky and his team, we decided to
+          focus first on improving our sourcing and screening processes..."
         tagline: ''
         subtitle: Shai Albaranes @ Vice President of Innovation and Ventures at Orbia
         text: ''
