@@ -242,14 +242,6 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - title:
-      text: Contact us to get your test sample of startups for free
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: ''
-    colors: bg-light-fg-dark
-    type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
