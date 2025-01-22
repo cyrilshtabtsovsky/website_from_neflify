@@ -155,7 +155,7 @@ sections:
       type: TitleBlock
       text: Testimonials
       color: text-dark
-    subtitle: Testimonials
+    subtitle: ''
     items:
       - title: >-
           With the expertise of Cyril Shtabtsovsky and his team, we decided to
