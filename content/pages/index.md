@@ -176,6 +176,7 @@ sections:
             flexDirection: row
             justifyContent: center
             borderWidth: 0
+            borderStyle: solid
         type: FeaturedItem
       - title: >-
           "Good news: we are progressing fast with one of companies from your
