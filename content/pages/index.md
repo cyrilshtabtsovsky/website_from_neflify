@@ -217,7 +217,7 @@ sections:
       - title: >-
           "Wow Thanks Cyril. We have reached out to a few here so something is
           working well ;)"
-        tagline: Testimonial 6
+        tagline: ''
         subtitle: 'Jane Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
