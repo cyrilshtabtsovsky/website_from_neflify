@@ -1,5 +1,5 @@
 ---
-title: Home
+title: AlphaSemantic
 slug: /
 sections:
   - type: GenericSection
