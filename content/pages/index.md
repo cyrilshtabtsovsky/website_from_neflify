@@ -165,8 +165,11 @@ sections:
     subtitle: Testimonials
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          With the expertise of Cyril Shtabtsovsky and his team, we decided to
+          focus first on improving our sourcing and screening processes.... Be
+          aware of every climatech startup that is aligned with our investment
+          strategy... Rank each startup in terms of its probability to become
+          successful.
         tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
