@@ -171,7 +171,7 @@ sections:
           strategy... Rank each startup in terms of its probability to become
           successful.
         tagline: ''
-        subtitle: Shai AlbaranesVice President of Innovation and Ventures at Orbia
+        subtitle: 'Shai Albaranes, Vice President of Innovation and Ventures at Orbia'
         text: ''
         image:
           altText: Maria Walters
