@@ -74,7 +74,7 @@
     "secondaryLinks": [
         {
             "label": "Request demo",
-            "url": "/",
+            "url": "https://calendly.com/cyril-dtv/alphasemantic-demo",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
