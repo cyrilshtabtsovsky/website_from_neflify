@@ -155,6 +155,9 @@ sections:
       type: TitleBlock
       text: Testimonials
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
     items:
       - title: >-
