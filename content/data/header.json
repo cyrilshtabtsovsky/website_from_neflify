@@ -22,7 +22,7 @@
         },
         {
             "label": "Testimonials",
-            "altText": "Blog",
+            "altText": "Testimonials",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
