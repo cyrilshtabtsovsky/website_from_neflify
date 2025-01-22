@@ -10,8 +10,8 @@ sections:
     subtitle: ''
     text: >+
       > “Success in VC is probably 10% about picking, and 90% about sourcing the
-      right deals and having entrepreneurs choose your firm as a partner.” -
-      Chris Dixon, partner A16Z
+      right deals and having entrepreneurs choose your firm as a partner.” –
+      Chris Dixon, Partner at Andreessen Horowitz (A16Z)
 
     actions:
       - label: Get started
