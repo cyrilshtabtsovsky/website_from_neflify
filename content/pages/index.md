@@ -127,7 +127,7 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    elementId: /product
+    elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
