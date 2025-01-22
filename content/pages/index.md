@@ -197,7 +197,7 @@ sections:
           "Good news: we are progressing fast with one of companies from your
           batch:) so we can see value, even I continue to send you additional
           comments!"
-        tagline: Testimonial 5
+        tagline: ''
         subtitle: 'Jane Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
