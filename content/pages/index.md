@@ -13,16 +13,7 @@ sections:
       right deals and having entrepreneurs choose your firm as a partner.” –
       Chris Dixon, Partner at Andreessen Horowitz (A16Z)
 
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
