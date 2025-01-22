@@ -140,7 +140,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Companies with worked with or for
     images: []
     motion: move-to-left
     colors: bg-light-fg-dark
