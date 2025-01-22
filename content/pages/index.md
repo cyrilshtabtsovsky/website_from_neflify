@@ -223,7 +223,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-    elementId: null
+    elementId: /testimonials
     variant: next-prev-nav-multiple
     colors: bg-light-fg-dark
     styles:
