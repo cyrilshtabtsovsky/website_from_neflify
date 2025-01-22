@@ -166,10 +166,7 @@ sections:
     items:
       - title: >-
           With the expertise of Cyril Shtabtsovsky and his team, we decided to
-          focus first on improving our sourcing and screening processes.... Be
-          aware of every climatech startup that is aligned with our investment
-          strategy... Rank each startup in terms of its probability to become
-          successful.
+          focus first on improving our sourcing and screening processes...
         tagline: ''
         subtitle: 'Shai Albaranes, Vice President of Innovation and Ventures at Orbia'
         text: ''
