@@ -46,10 +46,9 @@ sections:
       - type: FeaturedItem
         title: Semantic search
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We are the first VC tool to introduce semantic search for startups.
+          E.g. find all "AI agents startups"
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
